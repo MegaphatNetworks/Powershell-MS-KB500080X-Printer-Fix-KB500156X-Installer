@@ -172,6 +172,11 @@ If (!(regGet "HKLM:\SOFTWARE\MegaphatNetworks\KB500080X" "Patched")) {
 						$hfPatch = "http://download.windowsupdate.com/d/msdownload/update/software/updt/2021/03/windows10.0-kb5001567-x64_e3c7e1cb6fa3857b5b0c8cf487e7e16213b1ea83.msu" 
 						$newFixID = "KB5001567"
 					} 
+					'2009' { # (version 20H2)
+						$ThisHF = 'KB5000802'
+						$hfPatch = "http://download.windowsupdate.com/d/msdownload/update/software/updt/2021/03/windows10.0-kb5001567-x64_e3c7e1cb6fa3857b5b0c8cf487e7e16213b1ea83.msu" 
+						$newFixID = "KB5001567"
+					} 
 					'1909' { # (version 1909)
 						$ThisHF = 'KB5000808'
 						$hfPatch = "http://download.windowsupdate.com/d/msdownload/update/software/updt/2021/03/windows10.0-kb5001566-x64_b52b66b45562d5a620a6f1a5e903600693be1de0.msu" 
