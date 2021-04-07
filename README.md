@@ -17,7 +17,7 @@ However Type 3 drivers offer more features specific to your printer.  Now of cou
 I mean, you DID pay for it, so wh did MS break it?  Because.  They can.  And they did!
 
 So if you try to print and you get a screen like this:
-https://www.windowslatest.com/wp-content/uploads/2021/03/Windows-10-Win32kfull-BSOD.jpg
+![BSOD](https://www.windowslatest.com/wp-content/uploads/2021/03/Windows-10-Win32kfull-BSOD.jpg)
 
 Then you want to fix it of course.  They force the update on you but make the FIX a lesser known "optional" install.
 So instead of banging your head against the wall trying to figure it all out, I made this script.  Originally it would uninstall the problematic hotfix and hide it to prevent your system from ever installing it again, but as I was finishing it, MS came out with the fix, so then I changed direction and made my script automate the fix install.
