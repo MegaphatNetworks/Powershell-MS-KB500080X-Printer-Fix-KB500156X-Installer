@@ -28,8 +28,7 @@ If you are affected by this KB and my script fails to identify and patch the iss
 
 The actual downloaded patch files are:
 
-KB5001567 2004
-==============
+### KB5001567 2004/2009/20H2
 http://www.catalog.update.microsoft.com/Search.aspx?q=kb5001567
 W10-2004-x64
 http://download.windowsupdate.com/d/msdownload/update/software/updt/2021/03/windows10.0-kb5001567-x64_e3c7e1cb6fa3857b5b0c8cf487e7e16213b1ea83.msu
@@ -38,17 +37,7 @@ http://download.windowsupdate.com/d/msdownload/update/software/updt/2021/03/wind
 Svr-2004-x64
 http://download.windowsupdate.com/d/msdownload/update/software/updt/2021/03/windows10.0-kb5001567-x64_e3c7e1cb6fa3857b5b0c8cf487e7e16213b1ea83.msu
 
-KB5001567 20H2
-==============
-W10-20H2-x64
-http://download.windowsupdate.com/d/msdownload/update/software/updt/2021/03/windows10.0-kb5001567-x64_e3c7e1cb6fa3857b5b0c8cf487e7e16213b1ea83.msu
-W10-20H2-x86
-http://download.windowsupdate.com/d/msdownload/update/software/updt/2021/03/windows10.0-kb5001567-x86_bafeb1bea06a5f39976de3406d3e33fb3cc2c6fe.msu
-Svr-20H2-x64
-http://download.windowsupdate.com/d/msdownload/update/software/updt/2021/03/windows10.0-kb5001567-x64_e3c7e1cb6fa3857b5b0c8cf487e7e16213b1ea83.msu
-
-KB5001566 1909
-==============
+### KB5001566 1909
 http://www.catalog.update.microsoft.com/Search.aspx?q=kb5001566
 W10-1909-x64
 http://download.windowsupdate.com/d/msdownload/update/software/updt/2021/03/windows10.0-kb5001566-x64_b52b66b45562d5a620a6f1a5e903600693be1de0.msu
@@ -57,8 +46,7 @@ http://download.windowsupdate.com/c/msdownload/update/software/updt/2021/03/wind
 Svr-1909-x64
 http://download.windowsupdate.com/d/msdownload/update/software/updt/2021/03/windows10.0-kb5001566-x64_b52b66b45562d5a620a6f1a5e903600693be1de0.msu
 
-KB5001568 W10 1809
-==============
+### KB5001568 W10 1809
 http://www.catalog.update.microsoft.com/Search.aspx?q=kb5001568
 Svr-1809-x64
 http://download.windowsupdate.com/d/msdownload/update/software/updt/2021/03/windows10.0-kb5001568-x64_cbfb9504eda6bf177ad678c64b871a3e294514ce.msu
@@ -67,8 +55,7 @@ http://download.windowsupdate.com/d/msdownload/update/software/updt/2021/03/wind
 W10-1809-x86
 http://download.windowsupdate.com/c/msdownload/update/software/updt/2021/03/windows10.0-kb5001568-x86_ac43cdb614bfc2b4692ab2503efddc041a5b0c02.msu
 
-KB5001565 W10 1803
-==============
+### KB5001565 W10 1803
 http://www.catalog.update.microsoft.com/Search.aspx?q=kb5001565
 W10-1803-x64
 http://download.windowsupdate.com/d/msdownload/update/software/updt/2021/03/windows10.0-kb5001565-x64_18a2f1393a135d9c3338f35dedeaeba5a2b88b19.msu
