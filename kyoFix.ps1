@@ -133,6 +133,8 @@ function Elevate() {
 # # # # BEGIN MAIN ROUTINES # # # # # # 
 # # # # # # # # # # # # # # # # # # # #
 
+if (isElevated -eq $false) {Ellevate}
+
 $winMver = getWinVerMajor
 Say "Windows Version is $winMver"
 
