@@ -1,14 +1,14 @@
-### MS KB500080X Printer Fix KB500156X Installer
+# MS KB500080X Printer Fix KB500156X Installer
  Auto detect and patch MS KB500080X printer error
 
 So it seems that Microsoft has issued an update to Windows 10 and of course, they done broke it!
 We have customers with various printers from Brother, Canon, Kyocera and HP.  The hotfix is as follows:
 
-# KB5000802 (Windows 10 version 2004/20H2)
-# KB5000808 (Windows 10 version 1909)
-# KB5000809 (Windows 10 version 1809)
-# KB5000822 (Windows 10 version 1803).
-# KB5000803 (Windows Server 2016/2019)
+### KB5000802 (Windows 10 version 2004/20H2)
+### KB5000808 (Windows 10 version 1909)
+### KB5000809 (Windows 10 version 1809)
+### KB5000822 (Windows 10 version 1803).
+### KB5000803 (Windows Server 2016/2019)
 
 What this hotfix does, well in short it screws up your Type 3 printer drivers.  Type 3?  Yes!
 A Type 3 printer driver is an OEM driver, or a driver published by the hardware manufacturer.
